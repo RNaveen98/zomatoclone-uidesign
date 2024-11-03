@@ -1,0 +1,92 @@
+.main{
+    position: relative;
+    width: max-content;
+    max-width: 220px;
+    min-width: 28rem;
+    min-height: 160px;
+    margin: 0 auto;
+    border: 1px solid #ccc ;
+    border-radius: 10px;
+    box-shadow: rgba(28, 28, 28, 0.15) 0px 1.2rem 7rem;
+    background-color: rgb(255, 255, 255);
+    transition: transform 0.25s;
+}
+
+
+.logintext{
+   position: relative;
+   right: 160px;
+   top: 10px;
+}
+
+.phone-input{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 350px;
+    background-color: #fff;
+    left: 45px;
+    font-size: 1.8rem;
+    border-radius: 8px;
+}
+
+.or{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    color: rgb(105, 105, 105);
+    background: rgb(255, 255, 255);
+}
+
+.continue{
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    font-size: 16px;
+    width: 80%;
+    position: relative;
+    left: 35px;
+}
+
+.email-icons{
+    position: relative;
+    right: 10px;
+    bottom: 3px;
+    font-size: 23px;
+    color: rgb(239, 79, 95);
+}
+
+.master{
+    position: relative;
+    right: 143px;
+    top: 25px;
+    color: rgb(54, 54, 54);
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.link-tag{
+    position: relative;
+    bottom: 18px;
+    right: 15px;
+    font-weight: 300;
+    text-decoration: none;
+    color: rgb(239, 79, 95);
+}
+
+.down-icons{
+    position: relative;
+    right: 393px;
+    top: 25px;
+}
+
+.select-flag {
+    position: relative;
+    left:3px
+}
